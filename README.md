@@ -1,6 +1,19 @@
 # Restaurante
 Site de restaurante (teste de implementação utilizando front + back)
 
+    POSSIBILIDADES >
+Spring Boot + REST API:
+
+back-end: Java + Spring Boot (API REST).
+
+front-end: HTML, CSS e JS  (HTTP para dados).
+
+possibilidade de: Java Servlets + JSP (sem API):
+
+menor chance mas existente: React ou Vue.js no front para design.
+
+    funcionamento:
+
 código de restaurante que tenha todos os pratos e os preços, peça o endereço, conte o valor total e pergunte se o pagamento vai ser em dinheiro, cartão ou na hora, e confirme tudo, agradecendo pela compra ao final
 exemplo
 textos do sistema: 
