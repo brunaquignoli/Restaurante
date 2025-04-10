@@ -1,97 +1,34 @@
-# Restaurante
-Site de restaurante (teste de implementação utilizando front + back)
+BRIEFING
+- definição do tema
+Desenvolvimento de código de restaurante que tenha todos os pratos e os preços, peça o endereço, conte o valor total e pergunte se o pagamento vai ser em dinheiro, cartão ou na hora, e confirme tudo, agradecendo pela compra ao final.
 
-    POSSIBILIDADES >
-Spring Boot + REST API:
+- Especificação do tipo de serviço ou produto
+Área de alimentação, projeto de site de restaurante com design feito nas cores vermelho e amarelo.
 
-back-end: Java + Spring Boot (API REST).
+- Objetivos principais
+* tela de inicio (contendo menu, pratos, principais chefs, link para tela de "saiba mais")
+* tela de pratos (contendo todos os pratos, preços, descrição)
+* tela de pagamento (contendo opções de pagamento, endereço, valor total)
+* tela de confirmação (contendo agradecimento pela compra, valor total)
+* tela de saiba mais (contendo informações sobre o restaurente, redes sociais e métodos de contato)
 
-front-end: HTML, CSS e JS  (HTTP para dados).
+- objetivos específicos
+* tela de inicio: mostra o sumário inicial (contendo nome do site e link para aba de "cardápio", partes de "chefs" e "saiba mais"). E o cliente poderá entrar no site e escolher aonde navegar.
+* tela de pratos: contém o cardápio (com pratos, preços e descrição de cada prato).
+* tela de pagamento: contém as opções de pagamento (com opções de dinheiro, cartão/pagamento na entrega e pix).
+* tela de confirmação: contém a confirmação da compra (com valor total, confirmação do método de pagamento e do endereço).
+* tela de saiba mais: mostra unidades mais próximas, métodos de contato e redes sociais.
 
-possibilidade de: Java Servlets + JSP (sem API):
+- público alvo do projeto
+* stays
 
-menor chance mas existente: React ou Vue.js no front para design.
+- principal diferencial
+* o nome dos pratos
 
-    funcionamento:
+- metodologia proposta de desenvolvimento pratico
+* O projeto foca principalmente no desenvolvimento web, utilizando HTML, CSS e JavaScript para fazerem as partes de, consecutivamente, a parte frontal com design primeiramente rascunhado no figma, aplicação de design arrumado para deixar o site bonito e arrumar todos os detalhes,  epor último o javascript para terminar a parte funcional do código.
 
-código de restaurante que tenha todos os pratos e os preços, peça o endereço, conte o valor total e pergunte se o pagamento vai ser em dinheiro, cartão ou na hora, e confirme tudo, agradecendo pela compra ao final
-exemplo
-textos do sistema: 
-	Olá! Você deseja fazer um pedido no restaurante "Super Bowl"!
-	Nosso cardápio contém os seguintes pratos:
-	prato 1 - Arroz, picanha, alface e tomate (39,90)
-	prato 2 - Arroz, maminha, batata assada (34,90)
-	prato 4 - Arroz, strogonoff de carne, batata palha (35,90)
-	prato 6 - Hambúrguer de filé mignon de 200g, pão com gergelim, alface, tomate, maionese, cebola agridoce (27,90)
-	(demais pratos ...)
-	Por favor, insira os seguintes dados: nome, endereço, quantidade de pedidos, pedidos, método de pagamento (1 - dinheiro; 2 - cartão; 3 - pix) e momento de pagamento (0 - agora; 1 - na entrega)
+- resultados esperados
+* Apenas de desenvolvimento profissional, pretendendo fazer um site evoluindo assim nas linguagens citadas anteriormente.
 
-entradas: 
-	[nome]: Clara 
-	[endereço]: rua desconhecida, num 25
-	[quantidade de pedidos]: 4 pratos
-	[pratos]: pedido 2, prato 4, prato 6, prato 6
-	[pagamento]: 2
-	[momento de pagamento]: 1
-	
-sistema:
-	Certo! confirmação de pedido: Pedido para Clara, no endereço "Rua desconhecida, num 25", os seguintes pratos: 1 unidade do prato 2, 1 unidade do prato 4 e 2 unidades do prato 6, pagamento em cartão no momento da entrega
-	o pedido está correto? confirme com "sim" ou "não".
-
-cliente: 
-	sim
-
-sistema:
-	Certo! obrigada por comprar conosco e volte sempre. Enviaremos seu pedido feito com muito amor e carinho!
-	
-
-main = SistemaRestaurante
-classe = informacoesPedido
-
-CLASSE  
-SistemaRestaurante  
-
-ATRIBUTOS  
-- nome: String  
-- endereco: String  
-- quantidadeDePedidos: int  
-- numeroDosPedidos: List<Integer>  
-- tipoDePagamento: byte  
-- momentoDePagamento: byte
-- precoTotal: double  
-- confirmacao: String  
-
-MÉTODOS  
-+ exibirMenu(): void  
-+ fazerPedido(): void  
-+ calcularTotal(): double  
-+ exibirConfirmacao(): void  
-+ processarPagamento(): void  
-+ finalizarPedido(): void  
-
-;;
-
-
-{
-    private String nome;
-    private String endereco;
-    private int quantidadeDePedidos;
-    private int numeroDosPedidos;
-    private byte tipoDePagamento;
-    private byte momentoDePagamento;
-    private double precoTotal;
-    private String confirmacao;
-    
-    /** construtor: nao vai ter precoTotal
-     * 
-     * @param nome
-     * @param endereco
-     * @param quantidadeDePedidos
-     * @param numeroDosPedidos
-     * @param tipoDePagamento
-     * @param momentoDePagamento
-     * @param confirmacao
-     */
-    
-    public informacoespedido
-}
+- matriz csd
