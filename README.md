@@ -7,17 +7,18 @@ Desenvolvimento de código de restaurante que tenha todos os pratos e os preços
 
 - Objetivos principais
 * tela de inicio (contendo menu, pratos, principais chefs, link para tela de "saiba mais")
-* tela de pratos (contendo todos os pratos, preços, descrição)
+* tela de cardápio (contendo todos os pratos, preços, descrição)
 * tela de pagamento (contendo opções de pagamento, endereço, valor total)
+* tela de chef's (contendo informações sobre os principais chef's do restaurante e seus pratos)
 * tela de confirmação (contendo agradecimento pela compra, valor total)
-* tela de saiba mais (contendo informações sobre o restaurente, redes sociais e métodos de contato)
+
 
 - objetivos específicos
 * tela de inicio: mostra o sumário inicial (contendo nome do site e link para aba de "cardápio", partes de "chefs" e "saiba mais"). E o cliente poderá entrar no site e escolher aonde navegar.
-* tela de pratos: contém o cardápio (com pratos, preços e descrição de cada prato).
+* tela de cardápio: contém o cardápio (com pratos, preços e descrição de cada prato).
+* tela de chef's: mostra foto de cara chef e pratos que eles criaram anteriormente
 * tela de pagamento: contém as opções de pagamento (com opções de dinheiro, cartão/pagamento na entrega e pix).
 * tela de confirmação: contém a confirmação da compra (com valor total, confirmação do método de pagamento e do endereço).
-* tela de saiba mais: mostra unidades mais próximas, métodos de contato e redes sociais.
 
 - público alvo do projeto
 * stays
