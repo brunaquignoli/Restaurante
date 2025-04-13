@@ -41,14 +41,14 @@ BRIEFING
 <h3> Público alvo do projeto: </h3>
     <p>
 
-        stays <3
+        Stays <3
 </div>
 
 <div>
 <h3> Principal diferencial: </h3>
     <p>
         
-        o nome dos pratos!!
+        O nome dos pratos!!
 </div>
 
 <div>
