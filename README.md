@@ -41,14 +41,14 @@ BRIEFING
 <h3> Público alvo do projeto: </h3>
     <p>
 
-        stays <3
+        Stays <3
 </div>
 
 <div>
 <h3> Principal diferencial: </h3>
     <p>
         
-        o nome dos pratos!!
+        O nome dos pratos!!
 </div>
 
 <div>
@@ -63,5 +63,11 @@ BRIEFING
     <p>
 
         Apenas de desenvolvimento profissional, pretendendo fazer um site evoluindo assim nas linguagens citadas anteriormente.
+</div>
+
+<div>
+
+<h3> Protótipo inicial do site!</h3>
+<img src = "prot.superb.png" alt="Foto inicial do protótipo do site!!" >
 </div>
 
