@@ -3,7 +3,8 @@ BRIEFING
 <h3> Definição do tema: </h2>
     <p>
 
-        Desenvolvimento de código de restaurante que tenha todos os pratos e os preços, peça o endereço, conte o valor total e pergunte se o pagamento vai ser em dinheiro, cartão ou na hora, e confirme tudo, agradecendo pela compra ao final.
+        Desenvolvimento de código de restaurante que tenha todos os pratos e os preços, peça o endereço, conte o valor total
+        e pergunte se o pagamento vai ser em dinheiro, cartão ou na hora, e confirme tudo, agradecendo pela compra ao final.
 </div>
 
 <div>
@@ -30,7 +31,8 @@ BRIEFING
 <h3>Objetivos específicos:</h3>
     <p>
 
-        * tela de inicio: mostra o sumário inicial (contendo nome do site e link para aba de "cardápio", partes de "chefs" e "saiba mais"). E o cliente poderá entrar no site e escolher aonde navegar.
+        * tela de inicio: mostra o sumário inicial (contendo nome do site e link para aba de "cardápio",
+        partes de "chefs" e "saiba mais"). E o cliente poderá entrar no site e escolher aonde navegar.
         * tela de cardápio: contém o cardápio (com pratos, preços e descrição de cada prato).
         * tela de chef's: mostra foto de cara chef e pratos que eles criaram anteriormente.
         * tela de pagamento: contém as opções de pagamento (com opções de dinheiro, cartão/pagamento na entrega e pix).
@@ -55,7 +57,9 @@ BRIEFING
 <h3> Metodologia proposta de desenvolvimento pratico: </h3>
     <p>
 
-        O projeto foca principalmente no desenvolvimento web, utilizando HTML, CSS e JavaScript para fazerem as partes de, consecutivamente, a parte frontal com design primeiramente rascunhado no figma, aplicação de design arrumado para deixar o site bonito e arrumar todos os detalhes,  epor último o javascript para terminar a parte funcional do código.
+        O projeto foca principalmente no desenvolvimento web, utilizando HTML, CSS e JavaScript para fazerem as partes de,
+        consecutivamente, a parte frontal com design primeiramente rascunhado no figma, aplicação de design arrumado para deixar o
+        site bonito e arrumar todos os detalhes,  epor último o javascript para terminar a parte funcional do código.
 </div>
 
 <div>
