@@ -55,4 +55,36 @@ header {
         font-size: 1.5rem;
         cursor: pointer;
     }
-}
+
+    #mobile_menu.active{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #mobile_nav_list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin-top: 12px 0px;
+    }    
+
+    #mobile_nav_list {
+        list-style: none;
+        text-align: center;
+    }
+
+    #banner{
+        display: flex;
+        align-items: start;
+        justify-content: end;
+        width: 70%;
+        padding: 20px;
+    }
+
+    #banner img {
+        width: 400px;
+        height: auto;
+      }
+      
+}   
