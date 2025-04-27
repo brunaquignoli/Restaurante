@@ -11,6 +11,9 @@ body {
     background-color: #f2e6b4 ;
 }
 
+section{
+    padding: 28px 8%;
+}
 
 .btn-default {
     border: none;
